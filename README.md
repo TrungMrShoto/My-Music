@@ -8,4 +8,5 @@ I use some materials in [Lập trình Android Online tại Khoa Phạm](https://
 If you want to exchange some problem about my app or about the code, feel free to contact me at :
 - Facebook : [Trọng Trung](https://www.facebook.com/TrungShotokun)
 - Gmail : trung.nguyen.shotokun@gmail.com
+
 I will contact you shortly.
