@@ -1,5 +1,5 @@
 # MyMusic
-This is my Music App. I create this app to practice my skill about Android. Please enjoy my code. 
+This is my Music App. I create this app to practice my skill about Android. Please enjoy my app. 
 ## Description
 ## Usage
 ## References
